@@ -1,0 +1,24 @@
+#section1
+.par{
+    background-color: salmon;
+    font-size: 24pt;
+    border-top-width: 100%;
+    border-right-width: 100%;
+    border-top-width: 100%;
+    margin-left:25%;
+    margin-right: 25%;
+    
+    text-align: center;
+}
+button{
+    background-color: darkcyan;
+}
+
+#inputColor{
+    align-content: center;
+    margin: 5px;
+    padding: 5px;
+    border-width: 1px;
+    border-style: solid;
+    margin-right: 80%;
+}
